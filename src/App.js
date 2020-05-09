@@ -44,8 +44,7 @@ const App = () => {
         animate();
     }, []);
   return (
-    <div ref={rootRef} id="app-root">
-    </div>
+    <div ref={rootRef} id="app-root"/>
   );
 };
 
