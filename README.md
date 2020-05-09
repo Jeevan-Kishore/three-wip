@@ -1,3 +1,6 @@
+![Build and publish](https://github.com/Jeevan-Kishore/three-wip/workflows/Build%20and%20publish/badge.svg)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
